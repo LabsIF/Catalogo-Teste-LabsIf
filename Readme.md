@@ -77,5 +77,5 @@ Lembre-se de que o teste é uma oportunidade para você demonstrar suas habilida
 
 <li>Forneça um arquivo README com instruções claras sobre como executar a aplicação localmente.</li>
 
-<li>Ao final do teste envie para esse endereços com o assunto "Teste Catalogo Labs If" :  amanda.tavares@labsif.com.br /  contato@labsif.com.br </li>
+<li>Ao final do teste envie para esse endereços com o assunto "Teste Catalogo Labs If" :  processo.seletivo@labsif.com.br /  contato@labsif.com.br </li>
 
